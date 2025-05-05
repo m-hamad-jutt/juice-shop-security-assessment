@@ -58,7 +58,7 @@ Cybersecurity-Internship-Reports/
 ## 📌 Notes
 
 - Each week's work is documented in its own folder.  
-- All data, reports, and videos are available in the compressed `Summary.zip`.
+- All data, reports, and videos are available.
 
 ---
 
