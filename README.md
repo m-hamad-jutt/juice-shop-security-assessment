@@ -30,8 +30,6 @@ Cybersecurity-Internship-Reports/
 │ ├── Final Testing Report.pdf
 │ ├── Logging & Monitoring/
 │ └── Video.mp4 (if available)
-│
-└── Summary.zip
 
 ---
 
